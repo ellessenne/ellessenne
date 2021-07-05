@@ -20,3 +20,7 @@ You will also find a variety of experimental packages (with wildly different mat
 If you're looking for more information about me (or a full CV), check out my personal website at [ellessenne.xyz](https://www.ellessenne.xyz/) where I also write the occasional blog post.
 And feel free to get in touch if you have any question, contact details are on my website too.
 Cheers!
+
+![ellessenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellessenne&count_private=true&theme=graywhite&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellessenne&layout=compact)](https://github.com/ellessenne)
