@@ -13,7 +13,7 @@ I maintain the following R packages on CRAN:
 
 * {comorbidity} [[CRAN](https://CRAN.R-project.org/package=comorbidity), [GitHub](https://github.com/ellessenne/comorbidity)]
 
-* {KMunicate} [[CRAN](https://CRAN.R-project.org/package=KMunicate), [GitHub](https://github.com/ellessenne/KMunicate)]
+* {KMunicate} [[CRAN](https://CRAN.R-project.org/package=KMunicate), [GitHub](https://github.com/ellessenne/KMunicate-package)]
 
 You will also find a variety of experimental packages (with wildly different maturity levels) [here](https://github.com/ellessenne?tab=repositories).
 
