@@ -2,9 +2,9 @@
 
 Alessandro here, a post-doc biostatistician at Karolinska Institutet in Stockholm, Sweden.
 
-My current (_biostatistical_) research line focusses on developing joint natural history models for latent breast cancer tumour growth and metastatic spread.
+My current (_biostatistical_) research line focusses on developing joint natural history models for latent breast cancer tumour growth and time to event outcomes.
 
-Other methodological topics I am interested in: statistical simulation, survival analysis, joint longitudinal-survival modelling, computational statistics.
+Other methodological topics I am interested in: statistical simulation, survival analysis, joint shared random effects modelling (e.g. longitudinal-survival), computational statistics.
 
 I am an avid [#rstats](https://twitter.com/hashtag/rstats) user, which you might have guessed if you already checked out the repositories around here.
 I maintain the following R packages on CRAN:
@@ -20,7 +20,3 @@ You will also find a variety of experimental packages (with wildly different mat
 If you're looking for more information about me (or a full CV), check out my personal website at [ellessenne.xyz](https://www.ellessenne.xyz/) where I also write the occasional blog post.
 And feel free to get in touch if you have any question, contact details are on my website too.
 Cheers!
-
-![ellessenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellessenne&count_private=true&theme=graywhite&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellessenne&layout=compact)](https://github.com/ellessenne)
