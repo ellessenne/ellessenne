@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-Alessandro here, a post-doc biostatistician (and [#rstats](https://twitter.com/hashtag/rstats) developer) at Karolinska Institutet in Stockholm, Sweden.
+Alessandro here, a post-doc biostatistician and [#rstats](https://twitter.com/hashtag/rstats) developer at Karolinska Institutet in Stockholm, Sweden.
 
 My current (_biostatistical_) research focuses on developing joint natural history models for latent breast cancer tumour growth and metastatic spread.
 
 Other methodological topics I am interested in: statistical simulation, survival analysis, joint shared random-effects modelling (e.g. longitudinal-survival), computational statistics.
 
-I am an avid [#rstats](https://twitter.com/hashtag/rstats) user, which you might have guessed if you already checked out the repositories around here.
+I am predominantly an [#rstats](https://twitter.com/hashtag/rstats) user, which you might have guessed if you already checked out the repositories around here.
 I developed and currently maintain the following R packages available on CRAN:
 
 * {rsimsum} [[CRAN](https://CRAN.R-project.org/package=rsimsum), [GitHub](https://github.com/ellessenne/rsimsum)]
