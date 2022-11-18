@@ -1,6 +1,7 @@
 ### Hello! 👋
 
 Alessandro here, a senior biostatistician and [#rstats](https://twitter.com/hashtag/rstats) developer currently working at [Red Door Analytics](https://reddooranalytics.se) in Stockholm, Sweden.
+I am also a member of the [ASA Biopharmaceutical Section Software Engineering Working Group](https://rconsortium.github.io/asa-biop-swe-wg/).
 
 Some of my research interests are: statistical simulation, survival analysis, joint shared random-effects modelling (e.g. longitudinal-survival), computational statistics, statistical natural history models for breast cancer growth and spread.
 
