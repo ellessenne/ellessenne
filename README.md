@@ -17,4 +17,4 @@ I developed and currently maintain the following R packages available on CRAN:
 You will also find a variety of experimental packages and code (with wildly variable maturity levels) [here](https://github.com/ellessenne?tab=repositories).
 
 If you want to know more about me, feel free to check out my website at [ellessenne.xyz](https://www.ellessenne.xyz) where I sometimes write about statistics, [#rstats](https://twitter.com/hashtag/rstats), and other random stuff (tiny computers anyone?).
-You'll find there contact details as well there if you want to get in touch.
+You'll find there contact details as well, if you want to get in touch.
