@@ -1,11 +1,11 @@
 ### Hello! 👋
 
-Alessandro here, a senior biostatistician and [#rstats](https://twitter.com/hashtag/rstats) developer currently working at [Red Door Analytics](https://reddooranalytics.se) in Stockholm, Sweden.
-I am also a member of the [ASA Biopharmaceutical Section Software Engineering Working Group](https://rconsortium.github.io/asa-biop-swe-wg/).
+Alessandro here, a senior biostatistician and software developer currently working at [Red Door Analytics](https://reddooranalytics.se) in Stockholm, Sweden.
+I am also a member of [`openstatsware`](https://www.openstatsware.org/), previously known as the ASA Biopharmaceutical Section Software Engineering Working Group.
 
-Some of my research interests are: statistical simulation, survival analysis, joint shared random-effects modelling (e.g. longitudinal-survival), computational statistics, statistical natural history models for breast cancer growth and spread.
+Some of my research interests are: statistical simulation, survival analysis, multilevel modelling, joint shared random-effects modelling (e.g. longitudinal-survival), computational statistics, statistical natural history models for breast cancer growth and spread.
 
-I am predominantly an [#rstats](https://twitter.com/hashtag/rstats) user, which you might have already guessed, but use a good amount of [Stata](https://www.stata.com/) too.
+I am predominantly an [R](https://www.r-project.org/) user, but use a good amount of [Stata](https://www.stata.com/) too.
 I also like to fiddle around with other languages, such as C++, Python, SQL, and LaTeX, and I can write a good amount of HTML and CSS.
 
 I developed and currently maintain the following R packages available on CRAN:
@@ -16,5 +16,5 @@ I developed and currently maintain the following R packages available on CRAN:
 
 You will also find a variety of experimental packages and code (with wildly variable maturity levels) [here](https://github.com/ellessenne?tab=repositories).
 
-If you want to know more about me, feel free to check out my website at [ellessenne.xyz](https://www.ellessenne.xyz) where I sometimes write about statistics, [#rstats](https://twitter.com/hashtag/rstats), and other random stuff (tiny computers anyone?).
+If you want to know more about me, feel free to check out my website at [ellessenne.xyz](https://www.ellessenne.xyz) where I sometimes write about statistics, R programming, and other random stuff (tiny computers anyone?).
 You'll find there contact details as well, if you want to get in touch.
