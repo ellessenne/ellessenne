@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Alessandro here, a senior biostatistician and software developer currently working at [Red Door Analytics](https://reddooranalytics.se) in Stockholm, Sweden.
+Alessandro here, a biostatistician and software developer currently working at [Red Door Analytics](https://reddooranalytics.se) in Stockholm, Sweden.
 I am also a co-chair of [`openstatsware`](https://www.openstatsware.org/) and an associate editor at [Biostatistics](https://academic.oup.com/biostatistics).
 
 Some of my research interests are: statistical simulation, survival analysis, multilevel modelling, joint shared random-effects modelling (e.g. longitudinal-survival), computational statistics, statistical natural history models for breast cancer growth and spread.
